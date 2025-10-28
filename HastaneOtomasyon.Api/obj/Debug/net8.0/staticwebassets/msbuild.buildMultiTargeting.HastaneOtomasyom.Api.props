@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\HastaneOtomasyom.Api.props" />
-</Project>

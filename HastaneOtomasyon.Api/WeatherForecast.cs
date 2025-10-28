@@ -1,4 +1,4 @@
-namespace HastaneOtomasyom.Api
+namespace HastaneOtomasyon.Api
 {
     public class WeatherForecast
     {

@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hellin\\Desktop\\HASTANE\\HastaneOtomasyom.Api\\HastaneOtomasyom.Api.csproj",
-      "projectName": "HastaneOtomasyom.Api",
-      "projectPath": "C:\\Users\\Hellin\\Desktop\\HASTANE\\HastaneOtomasyom.Api\\HastaneOtomasyom.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Hellin\\Desktop\\HASTANE\\HastaneOtomasyon.Api\\HastaneOtomasyon.Api.csproj",
+      "projectName": "HastaneOtomasyon.Api",
+      "projectPath": "C:\\Users\\Hellin\\Desktop\\HASTANE\\HastaneOtomasyon.Api\\HastaneOtomasyon.Api.csproj",
       "packagesPath": "C:\\Users\\Hellin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hellin\\Desktop\\HASTANE\\HastaneOtomasyom.Api\\obj\\",
+      "outputPath": "C:\\Users\\Hellin\\Desktop\\HASTANE\\HastaneOtomasyon.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

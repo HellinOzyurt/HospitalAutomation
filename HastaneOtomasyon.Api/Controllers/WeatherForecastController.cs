@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace HastaneOtomasyom.Api.Controllers
+namespace HastaneOtomasyon.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

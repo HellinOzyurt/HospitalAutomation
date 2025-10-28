@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\HastaneOtomasyom.Api.props" />
-</Project>
