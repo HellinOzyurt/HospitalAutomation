@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HastaneOtomasyon.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53599546dc7072c42ebc0131137c37f3f4489748")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f840eaf6abc04fce6dc474ac8c1f91898b1dd532")]
 [assembly: System.Reflection.AssemblyProductAttribute("HastaneOtomasyon.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HastaneOtomasyon.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
